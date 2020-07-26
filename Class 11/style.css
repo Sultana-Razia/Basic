@@ -1,0 +1,29 @@
+body{
+	background-color: #81BF30;
+}
+img{
+	height: 200px;
+	width: 400px;
+	margin-left: 500px;
+}
+p{
+	font-size: 20px;
+	text-align: center;
+	background-color: rgb(66, 194, 245);
+	text-transform: capitalize;
+}
+#third-one{
+	font-size: 40px;
+}
+.box h2{
+	height: 100px;
+	width: 100px;
+	background: #FFC0CB;
+	margin: 20px;
+	padding: 20px;
+}
+.first{
+	text-align: center;
+	color: red;
+	text-transform: capitalize;
+}
